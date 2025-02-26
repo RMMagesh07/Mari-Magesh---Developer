@@ -4285,7 +4285,7 @@ form textarea:required:valid {
 /* Responsive for mobile screens */
 @media (max-width: 768px) {
   .copyright {
-       display: none;
+      font-size: 08px;
   }
 }
 
