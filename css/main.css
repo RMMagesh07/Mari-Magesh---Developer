@@ -4294,7 +4294,7 @@ form textarea:required:valid {
 @media (max-width: 480px) {
   .copyright {
       font-size: 12px;
-      margin-top: 0px;
+      margin-top: 30px;
       padding: 10px 0;
   }
 }
