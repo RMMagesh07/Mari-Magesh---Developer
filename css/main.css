@@ -4285,8 +4285,8 @@ form textarea:required:valid {
 /* Responsive for mobile screens */
 @media (max-width: 768px) {
   .copyright {
-      font-size: 12px; /* Slightly smaller text for better readability */
-      margin-top: -30px; /* Adjusted margin for better alignment */
+      font-size: 10px; /* Slightly smaller text for better readability */
+      margin-top: 50px; /* Adjusted margin for better alignment */
       padding: 10px 0;
   }
 }
