@@ -4285,19 +4285,11 @@ form textarea:required:valid {
 /* Responsive for mobile screens */
 @media (max-width: 768px) {
   .copyright {
-      font-size: 10px; /* Slightly smaller text for better readability */
-      margin-top: 50px; /* Adjusted margin for better alignment */
-      padding: 10px 0;
+       display: none;
   }
 }
 
-@media (max-width: 480px) {
-  .copyright {
-      font-size: 10px;
-      margin-top: 50px;
-      padding: 10px 0;
-  }
-}
+
 
 /* ------------------------------------------------*/
 /* Features Socials End */
